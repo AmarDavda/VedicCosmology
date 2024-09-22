@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+div{
+    border: 0.1px solid #b4b0b0;
+    border-radius:10px;
+    width: auto;
+    height:auto;
+    padding: 15px;
+    margin: 30px;
+}
+body{
+    font-family: "Quicksand",'Courier New', Courier, monospace;
+    word-wrap:break-word;
+    font-size: 18px;
+    font-weight: bold;
+}
+.footer {
+    margin-top: 50px;
+    margin-bottom: 0px;
+    background-color: rgb(248, 183, 61);
+    width:auto;
+    text-align: center;
+    padding: 5px;
+}
+.icn{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    border: 0px;
+    margin-bottom: 0px;
+}
+.icon{
+    width: 35px;
+    height: 35px;
+}
+
+body{background-color: #f4f4a9;}
+#spiritual_world{background-color: #fcfca0; color: #727225;}
+#goloka{background-color: #f95999;color: #ae0247;}
+#vrajbhumi{background-color: #e57622;color: #843a02;}
+#mathura{background-color: #807ec9;color: #413e86;}
+#gokul{background-color: #d3ae26;color: #78610c;}
+#vrindavan{background-color: #d488af;color: #621f42;}
+#dwarka{background-color: #ffd700;color: #9b860b;}
+#navadwipa{background-color: #e7ffc3; color: #95d437;}
+#akshardham{background-color:#ed444d ;color: #f0a9ac;}
+#saket{background-color: #ff9933;color:#7d4711;}
+#vaikuntha{background-color: #c5bcc7;color:#725779;}
+#swanandaloka{background-color: #fc142f;color:#f4c8cd;}
+#shivaloka{background-color: #c89f6f ;color:#6c400d;}
+#deviloka{background-color: #ff4c3e ;color:#fab6b1;}
+
+#material_world{background-color: #e0e8f9;color:#253353 ;}
+#karanodaka-ocean{background-color: #919ec4; color:#202b4c ;}
+#brahmanda{background-color: #435789 ;color:#03184b;}
+#viraja{background-color: #a2afd5 ;color:#28355b ;}
+
+#urdhvalokas{background-color: #556a9f;}
+#satyaloka{background-color: #f7f09f;color:#575214;}
+#muniloka{background-color: #ecb09c;color:#752c14;}
+#tapaloka{background-color: #ffedcc;color:#7e7e02;}
+#janaloka{background-color: #f6d598;color:#855907;}
+#maharloka{background-color: #dc905d;color:#a34303;}
+
+#swarloka{background-color: #ead409;color: #524a02;}
+#amaravati{background-color: #beab35;color: #524802;}
+#agniloka{background-color: #ef731b;color: #6a2e04;}
+#vayuloka{background-color: #b6d2ea;color: #054781;}
+#kamaloka{background-color: #facdee;color: #5e0546;}
+
+#bhuvarloka{background-color: #98fefe;}
+#urdhva-bhuvarlokas{background-color: #71d6d6;color: #1e4b4b;}
+#dhruvloka{background-color: #f3d845 ;color: #5a4e0c;}
+#ksirasagara{background-color:#f0ebeb ;color:#4d4646;}
+#saptarishi{background-color: #f79868 ;color: #6b2c0c ;}
+#navagraha-mandal{background-color: #1f4861;color: #b8def6;}
+#varuna{background-color: #79b6e8;color: #032e51;}
+#shani{background-color: #b78c66;color: #4e2603;}
+#brihaspati{background-color: #c7aec4 ;color: #43023b;}
+#mangala{background-color: #b13e0d ;color: #f8bfa7;}
+#shukra{background-color: #e7c985 ;color: #4d3703;}
+#budha{background-color: #85ab75 ;color: #143e01;}
+#chandra{background-color: #dae0e0 ;color: #3f3f3f;}
+#nakshatra{background-color: #bccaca;color: #354242;}
+#surya{background-color: #f75524 ;color: #f8db1a;}
+
+#adho-bhuvarlokas{background-color: #69c0c0 ;color: #073c3c;}
+#rahu-ketu{background-color: #d6a784 ;color: #452105;}
+#siddhaloka{background-color: #fad8de ;color: #5e1f2a;}
+#charanaloka{background-color: #defcfc ;color: #1f5555;}
+#vidyadharaloka{background-color: #fbf7ce ;color: #595205;}
+#apsaraloka{background-color: #f3bbe4;color: #760558;}
+#gandharvaloka{background-color: #96bd85;color: #1b5203;}
+#kinnaraloka{background-color: #fce564 ;color: #968004;}
+#yakshaloka{background-color: #d1b933 ;color: #584c04;}
+#alaka{background-color: #fddd28 ;color: #796704;}
+#pannagaloka{background-color: #708a65;color: #27421c;}
+#kimpurushaloka{background-color: #de9c23 ;color: #fcdda5;}
+#antariksha{background-color: #51679f ;color: #c0d0f8;}
+
+#bhuloka{background-color: #677cb3;}
+#lavana{background-color: #048a97 ;color: #06454a;}
+#jambu{background-color: #0f910f;color: #033603;}
+#meru{background-color: #edc900 ;color: #766504;}
+#ganga{background-color: #09bfbf ;color: #025a5a;}
+#iksu{background-color: #e8d85a ;color: #61580f;}
+#milk{background-color: #e9f0f0 ;color: #4d5757;}
+#dadhi{background-color: #ebf4f4 ;color: #3d4b4b;}
+#ghee{background-color: #e8dd8c ;color: #464014;}
+#jala{background-color: #87fcfc ;color: #045252;}
+#sura{background-color: #ad2647 ;color: #d99cad;}
+#plaksa{background-color: #42821f;color: #194402;}
+#salmali{background-color: #3f7622 ;color: #183e03;}
+#kusa{background-color: #61a93a ;color: #1c4d01;}
+#krauncha{background-color: #5f9742 ;color: #1d5203;}
+#puskara{background-color: #4ca01f ;color: #215a02;}
+#saka{background-color: #649749 ;color: #1d4f02;}
+#inhabited-land{background-color: #c2a712 ;color: #564901;}
+#golden-land{background-color: #ffdc14 ;color: #8b7604;}
+#aloka{background-color: #aaa465 ;color: #413b03;}
+#lokaloka{background-color: #9b9269 ;color: #443906;}
+
+#adholokas{background-color: #4c6092 ;}
+#bila-swarg{background-color: #3e4d78 ;color:#000 ;}
+#atala{background-color: #8d6480 ;color: #480332;}
+#vitala{background-color: #279882 ;color: #013429;}
+#sutala{background-color: #a3453d ;color: #510a03;}
+#talatala{background-color: #806363;color: #400c0c;}
+#mahatala{background-color: #91855d ;color: #433508;}
+#rasatala{background-color: #674853 ;color: #3b0216;}
+#patala{background-color: #384f3b;color: #012701;}
+
+#naraka{background-color: #2f3c5f; color: #010a21;}
+#yamaloka{background-color: #383802 ;color: #787825;}
+#pitruloka{background-color: #424c68; color: #7789b8;}
+#hells{background-color: #2d0101; color: #7b6262;}
+
+#ananta{background-color: #431a1a;color: #f19c9c;}
+#garbhodaka-ocean{background-color: #3f5c76;color: #02223e;}
